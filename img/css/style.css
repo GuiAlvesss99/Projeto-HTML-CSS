@@ -1,0 +1,46 @@
+/*Estilos da página index.html*/
+
+#menu li{
+    display: inline;
+    padding: 10px;
+    font-size: 22px;
+}
+#menu li a{
+    color: black;
+}
+
+#menu li a:hover{
+    color: white;
+}
+
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(161, 37, 37);
+    width: 1550px;
+    margin: auto;
+}
+
+.img-rede{
+    height: 50px;
+    width: 50px;
+}
+
+#rodape{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#album{
+    font-weight: bold;
+}
+
+/*Estilos da página copadobrasil.html*/
